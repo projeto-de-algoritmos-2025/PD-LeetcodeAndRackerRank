@@ -111,7 +111,7 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão média LeetCode 879</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão difícil LeetCode 879</b></p></font>
 </div>
 
 <div align="center">
@@ -120,7 +120,7 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão média LeetCode 879</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão difícil LeetCode 879</b></p></font>
 </div>
 
 <div align="center">
