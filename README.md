@@ -1,6 +1,6 @@
-# DC_LeetCode-and-Hacker-Rank
+# PD_LeetCode-and-Hacker-Rank
 
-**Conteúdo da Disciplina**: Dividir e Conquistar
+**Conteúdo da Disciplina**: Programação Dinâmica
 
 ## Sobre
 
@@ -22,24 +22,12 @@ Este projeto consiste na resolução de questões da plataforma HackerRank e Lee
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://www.hackerrank.com/challenges/median/problem" target="_blank">Median Updates</td>
+            <td><a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/" target="_blank">1235. Maximum Profit in Job Scheduling</td>
             <td>Difícil 01</td>
         </tr>
         <tr>
-            <td><a href="https://www.hackerrank.com/challenges/find-the-running-median/problem" target="_blank">Find the Running Median</td>
+            <td><a href="https://leetcode.com/problems/profitable-schemes/description/" target="_blank">879. Profitable Schemes</td>
             <td>Difícil 02</td>
-        </tr>
-        <tr>
-            <td><a href="https://leetcode.com/problems/find-array-given-subset-sums/description/?envType=problem-list-v2&envId=divide-and-conquer" target="_blank">1982. Find Array Given Subset Sums</td>
-            <td>Difícil 03</td>
-        </tr>
-        <tr>
-            <td><a href="https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=divide-and-conquer" target="_blank">493. Reverse Pairs</td>
-            <td>Difícil 04</td>
-        </tr>
-         <tr>
-            <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=divide-and-conquer" target="_blank">4. Median of Two Sorted Arrays</td>
-            <td>Difícil 05</td>
         </tr>
     </tbody>
 </table>
@@ -93,84 +81,52 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 
 Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-conquer/), procurar pelo nome/número do exercício, colar na aba code e clicar em _Submit_
 
-## Screenshots do HackerRank
+## Screenshots do HackerRank & LeetCode
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil LeetCode 1235</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoDificil1_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/QuestaoDificil1_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil1_case1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão difícil LeetCode 1235</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoDificil1_case0_3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão média HackerRank Special Subtree</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/QuestaoDificil2_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil1_case2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão média HackerRank Special Subtree</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão difícil LeetCode 1235</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoDificil2_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Resultados questão difícil HackerRank MST</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/QuestaoDificil2_case0_3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil1_case3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil do LeetCode 1982. Find Array Given Subset Sums</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão média LeetCode 879</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/sumos.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil2_case1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão média LeetCode 879</b></p></font>
 </div>
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil do LeetCode 493. Reverse Pairs</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/reverte.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil2_case2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 9: Resultados questão difícil do LeetCode 4. Median of Two Sorted Arrays</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/mediana.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
 
 ## Vídeo
 
