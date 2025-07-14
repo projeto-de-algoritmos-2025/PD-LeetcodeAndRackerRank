@@ -128,6 +128,33 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 </div>
 <div align="center">
 
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Resultados questão difícil LeetCode 42. Trapping Rain Water</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/agua.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil LeetCode 115. Distinct Subsequences</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/distinct.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil LeetCode 124. Binary Tree Maximum Path Sum</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/binary.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+
 ## Vídeo
 
 Explicamos todos os códigos que fizemos na plataforma HackerRank e LeetCode:
@@ -143,7 +170,7 @@ Explicamos todos os códigos que fizemos na plataforma HackerRank e LeetCode:
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://youtu.be/8p3u4R3VmEY" target="_blank">HackerRank and LeetCode Problem</a></td>
+            <td><a href="https://youtu.be/cq4AXVnNlDc" target="_blank">HackerRank and LeetCode Problem</a></td>
         </tr>
     </tbody>
 </table>
