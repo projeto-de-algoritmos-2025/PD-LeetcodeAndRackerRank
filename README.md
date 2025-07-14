@@ -29,6 +29,18 @@ Este projeto consiste na resolução de questões da plataforma HackerRank e Lee
             <td><a href="https://leetcode.com/problems/profitable-schemes/description/" target="_blank">879. Profitable Schemes</td>
             <td>Difícil 02</td>
         </tr>
+         <tr>
+            <td><a href="https://leetcode.com/problems/trapping-rain-water/submissions/1693139970/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">42. Trapping Rain Water</td>
+            <td>Difícil 03</td>
+        </tr>
+         <tr>
+            <td><a href="https://leetcode.com/problems/distinct-subsequences/description/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">115. Distinct Subsequences</td>
+            <td>Difícil 04</td>
+        </tr>
+         <tr>
+            <td><a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">124. Binary Tree Maximum Path Sum</td>
+            <td>Difícil 05</td>
+        </tr>
     </tbody>
 </table>
 
@@ -147,7 +159,7 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil LeetCode 124. Binary Tree Maximum Path Sum</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil LeetCode 124. Binary Tree Maximum Path Sum</b></p></font>
 </div>
 
 <div align="center">
